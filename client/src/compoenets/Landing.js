@@ -101,7 +101,7 @@ class Landing extends Component {
             animationInDelay={1000}
             style={style.textStyle}
           >
-            <h3 className="f2 lh-title"> Web Developer </h3>
+            <h3 className="f2 lh-title"> Software Developer </h3>
           </Animated>
           <Animated animationIn="shake">
             <img id="loadImg" src={RocketGirl} alt="" />
