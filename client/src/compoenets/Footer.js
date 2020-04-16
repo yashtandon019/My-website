@@ -4,7 +4,7 @@ const Footer = props => (
   <footer className="pv2 ph3 tc ">
     <a
       className="link near-black hover-silver dib mh3 tc"
-      href="https://github.com/christine-aqui/"
+      href="https://github.com/yashtandon019/"
       target="_blank"
       rel="noopener noreferrer"
       title="GitHub"
@@ -26,7 +26,7 @@ const Footer = props => (
 
     <a
       className="link hover-silver near-black dib mh3 tc"
-      href="https://www.linkedin.com/in/christineaqui/"
+      href="https://www.linkedin.com/in/yashtandon019/"
       target="_blank"
       rel="noopener noreferrer"
       title="LinkedIn"
@@ -51,7 +51,7 @@ const Footer = props => (
 
     <a
       className="link hover-silver near-black dib mh3 tc"
-      href="https://twitter.com/Artemistllo"
+      href="https://twitter.com/yashtandon019"
       rel="noopener noreferrer"
       target="_blank"
       title=""
@@ -76,7 +76,7 @@ const Footer = props => (
 
     <a
       className="link hover-silver near-black dib mh3 tc"
-      href="https://codepen.io/kghost/"
+      href="https://codepen.io/yashtandon019/"
       target="_blank"
       rel="noopener noreferrer"
       title="CodePen"
